@@ -21,7 +21,8 @@ calculating mean score at 95% confidence interval, and comparing real and predic
 
 1. Clone the repository:
 
-   git clone https://github.com/your_username/linear-regression-analysis.git
+   git clone https://github.com/Rohit-27-Patil/Linear-Regression-using-Python.git
+
    cd linear-regression-analysis
 
 
@@ -35,6 +36,7 @@ calculating mean score at 95% confidence interval, and comparing real and predic
 4. Run the Python script:
 
 5. View the generated plots and analysis results.
+   
 
 
 
