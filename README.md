@@ -6,7 +6,7 @@ calculating mean score at 95% confidence interval, and comparing real and predic
 
 ## Files
 
-- `ML Class Assessment 3.py`: Python script containing the code for linear regression analysis.
+- `ML Class Assessment 3.ipynb`: Python script containing the code for linear regression analysis.
 - `Fish_dataset.csv`: Sample dataset file used for analysis. Replace with your own dataset.
 
 ## Requirements
